@@ -1,5 +1,5 @@
 import { useState, useMemo } from 'react'
-import { Container, Row, Col } from 'reactstrap'
+import { Container, Row, Col, Button } from 'reactstrap'
 import data from '../data/peliculas.json'
 import SearchBar from '../components/SearchBar'
 import GenreFilter from '../components/GenreFilter'
@@ -26,6 +26,13 @@ function Home() {
     })
   }, [searchTerm, genero, peliculas])
 
+  const hayFiltros = searchTerm || genero
+
+  function limpiarFiltros() {
+    setSearchTerm('')
+    setGenero('')
+  }
+
   function openModal(pelicula) {
     setSelectedMovie(pelicula)
     setModalOpen(true)
@@ -46,11 +53,18 @@ function Home() {
       <Container>
         <div className="filter-bar">
           <Row>
-            <Col md="6" className="mb-2 mb-md-0">
+            <Col md="5" className="mb-2 mb-md-0">
               <SearchBar value={searchTerm} onChange={setSearchTerm} />
             </Col>
-            <Col md="4">
+            <Col md="4" className="mb-2 mb-md-0">
               <GenreFilter value={genero} onChange={setGenero} />
+            </Col>
+            <Col md="3" className="d-flex align-items-end">
+              {hayFiltros && (
+                <Button className="btn-clear w-100" onClick={limpiarFiltros}>
+                  ✕ Limpiar filtros
+                </Button>
+              )}
             </Col>
           </Row>
         </div>

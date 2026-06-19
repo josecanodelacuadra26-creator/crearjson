@@ -1,9 +1,16 @@
+import { useState } from 'react'
 import { Container } from 'reactstrap'
 import data from '../data/peliculas.json'
+import SearchBar from '../components/SearchBar'
 import MovieList from '../components/MovieList'
 
 function Home() {
+  const [searchTerm, setSearchTerm] = useState('')
   const peliculas = data.peliculas
+
+  const filtradas = peliculas.filter(p =>
+    p.titulo.toLowerCase().includes(searchTerm.toLowerCase())
+  )
 
   return (
     <>
@@ -14,7 +21,10 @@ function Home() {
         </Container>
       </header>
       <Container>
-        <MovieList peliculas={peliculas} onMovieClick={() => {}} />
+        <div className="filter-bar">
+          <SearchBar value={searchTerm} onChange={setSearchTerm} />
+        </div>
+        <MovieList peliculas={filtradas} onMovieClick={() => {}} />
       </Container>
     </>
   )

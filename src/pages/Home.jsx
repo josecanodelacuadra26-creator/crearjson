@@ -4,10 +4,13 @@ import data from '../data/peliculas.json'
 import SearchBar from '../components/SearchBar'
 import GenreFilter from '../components/GenreFilter'
 import MovieList from '../components/MovieList'
+import MovieModal from '../components/MovieModal'
 
 function Home() {
   const [searchTerm, setSearchTerm] = useState('')
   const [genero, setGenero] = useState('')
+  const [selectedMovie, setSelectedMovie] = useState(null)
+  const [modalOpen, setModalOpen] = useState(false)
 
   const peliculas = data.peliculas
 
@@ -22,6 +25,15 @@ function Home() {
       return true
     })
   }, [searchTerm, genero, peliculas])
+
+  function openModal(pelicula) {
+    setSelectedMovie(pelicula)
+    setModalOpen(true)
+  }
+
+  function closeModal() {
+    setModalOpen(false)
+  }
 
   return (
     <>
@@ -42,8 +54,14 @@ function Home() {
             </Col>
           </Row>
         </div>
-        <MovieList peliculas={filtradas} onMovieClick={() => {}} />
+        <MovieList peliculas={filtradas} onMovieClick={openModal} />
       </Container>
+
+      <MovieModal
+        pelicula={selectedMovie}
+        isOpen={modalOpen}
+        toggle={closeModal}
+      />
     </>
   )
 }

@@ -3,6 +3,14 @@ import { Card, CardBody, CardTitle, CardSubtitle, CardText, Badge } from 'reacts
 function MovieCard({ pelicula, onClick }) {
   return (
     <Card className="movie-card" onClick={() => onClick(pelicula)}>
+      <div className="movie-card-img-wrap">
+        <img
+          src={pelicula.poster}
+          alt={pelicula.titulo}
+          className="movie-card-img"
+          loading="lazy"
+        />
+      </div>
       <CardBody>
         <div className="d-flex justify-content-between align-items-start mb-2">
           <CardTitle tag="h5">{pelicula.titulo}</CardTitle>

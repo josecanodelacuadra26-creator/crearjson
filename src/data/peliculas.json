@@ -8,7 +8,8 @@
       "director": "Christopher Nolan",
       "rating": 8.8,
       "sinopsis": "Un ladrón especializado en extraer secretos del subconsciente a través de los sueños recibe una misión imposible: implantar una idea en la mente de alguien.",
-      "duracion": 148
+      "duracion": 148,
+      "poster": "https://placehold.co/300x450/FFF3E0/333?text=Inception"
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "director": "Francis Ford Coppola",
       "rating": 9.2,
       "sinopsis": "La historia de la familia Corleone y su poderoso imperio mafioso en Nueva York.",
-      "duracion": 175
+      "duracion": 175,
+      "poster": "https://placehold.co/300x450/E8F5E9/333?text=El%20Padrino"
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "director": "Robert Zemeckis",
       "rating": 8.5,
       "sinopsis": "Un adolescente viaja accidentalmente al pasado en un DeLorean modificado por su excéntrico amigo científico.",
-      "duracion": 116
+      "duracion": 116,
+      "poster": "https://placehold.co/300x450/E3F2FD/333?text=Volver%20al%20Futuro"
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "director": "John Lasseter",
       "rating": 8.3,
       "sinopsis": "Los juguetes de un niño cobran vida cuando él no está y deben enfrentar la llegada de un nuevo juguete espacial.",
-      "duracion": 81
+      "duracion": 81,
+      "poster": "https://placehold.co/300x450/FCE4EC/333?text=Toy%20Story"
     },
     {
       "id": 5,
@@ -46,9 +50,10 @@
       "año": 2008,
       "genero": "Acción",
       "director": "Christopher Nolan",
-      "rating": 9.0,
+      "rating": 9,
       "sinopsis": "Batman se enfrenta al Joker, un criminal que sumerge a Gotham en el caos.",
-      "duracion": 152
+      "duracion": 152,
+      "poster": "https://placehold.co/300x450/F3E5F5/333?text=El%20Caballero%20Oscuro"
     },
     {
       "id": 6,
@@ -58,7 +63,8 @@
       "director": "Quentin Tarantino",
       "rating": 8.9,
       "sinopsis": "Varias historias entrelazadas de criminales, boxeadores y gangsters en Los Ángeles.",
-      "duracion": 154
+      "duracion": 154,
+      "poster": "https://placehold.co/300x450/E0F7FA/333?text=Pulp%20Fiction"
     },
     {
       "id": 7,
@@ -68,7 +74,8 @@
       "director": "Peter Jackson",
       "rating": 8.8,
       "sinopsis": "Un humilde hobbit emprende una peligrosa misión para destruir un anillo de poder maléfico.",
-      "duracion": 178
+      "duracion": 178,
+      "poster": "https://placehold.co/300x450/FFF8E1/333?text=El%20Se%C3%B1or%20de%20los%20Anillos%3A%20La%20Comunidad%20del%20Anillo"
     },
     {
       "id": 8,
@@ -78,7 +85,8 @@
       "director": "Robert Zemeckis",
       "rating": 8.8,
       "sinopsis": "La vida de un hombre simple pero bondadoso que accidentalmente influye en eventos históricos clave.",
-      "duracion": 142
+      "duracion": 142,
+      "poster": "https://placehold.co/300x450/EFEBE9/333?text=Forrest%20Gump"
     },
     {
       "id": 9,
@@ -88,7 +96,8 @@
       "director": "Lana Wachowski, Lilly Wachowski",
       "rating": 8.7,
       "sinopsis": "Un programador descubre que la realidad es una simulación creada por máquinas inteligentes.",
-      "duracion": 136
+      "duracion": 136,
+      "poster": "https://placehold.co/300x450/FFF3E0/333?text=Matrix"
     },
     {
       "id": 10,
@@ -98,7 +107,8 @@
       "director": "Bong Joon-ho",
       "rating": 8.5,
       "sinopsis": "Una familia pobre se infiltra en la vida de una familia rica con consecuencias inesperadas.",
-      "duracion": 132
+      "duracion": 132,
+      "poster": "https://placehold.co/300x450/E8F5E9/333?text=Parasite"
     },
     {
       "id": 11,
@@ -108,7 +118,8 @@
       "director": "Christopher Nolan",
       "rating": 8.7,
       "sinopsis": "Un grupo de astronautas viaja a través de un agujero de gusano en busca de un nuevo hogar para la humanidad.",
-      "duracion": 169
+      "duracion": 169,
+      "poster": "https://placehold.co/300x450/E3F2FD/333?text=Interestelar"
     },
     {
       "id": 12,
@@ -118,7 +129,8 @@
       "director": "Roberto Benigni",
       "rating": 8.6,
       "sinopsis": "Un padre judío usa su imaginación para proteger a su hijo de los horrores de un campo de concentración.",
-      "duracion": 116
+      "duracion": 116,
+      "poster": "https://placehold.co/300x450/FCE4EC/333?text=La%20Vida%20es%20Bella"
     },
     {
       "id": 13,
@@ -128,7 +140,8 @@
       "director": "Ridley Scott",
       "rating": 8.5,
       "sinopsis": "Un general romano traicionado busca venganza como gladiador en el Coliseo.",
-      "duracion": 155
+      "duracion": 155,
+      "poster": "https://placehold.co/300x450/F3E5F5/333?text=Gladiador"
     },
     {
       "id": 14,
@@ -138,7 +151,8 @@
       "director": "Andrew Stanton",
       "rating": 8.2,
       "sinopsis": "Un pez payaso cruza el océano para rescatar a su hijo capturado por un buceador.",
-      "duracion": 100
+      "duracion": 100,
+      "poster": "https://placehold.co/300x450/E0F7FA/333?text=Buscando%20a%20Nemo"
     },
     {
       "id": 15,
@@ -148,7 +162,8 @@
       "director": "David Fincher",
       "rating": 8.8,
       "sinopsis": "Un empleado de oficina insomne y un carismático vendedor de jabón fundan un club de lucha clandestino.",
-      "duracion": 139
+      "duracion": 139,
+      "poster": "https://placehold.co/300x450/FFF8E1/333?text=El%20Club%20de%20la%20Lucha"
     },
     {
       "id": 16,
@@ -158,7 +173,8 @@
       "director": "Steven Spielberg",
       "rating": 8.2,
       "sinopsis": "Científicos crean un parque temático con dinosaurios clonados que terminan escapando.",
-      "duracion": 127
+      "duracion": 127,
+      "poster": "https://placehold.co/300x450/EFEBE9/333?text=Jurassic%20Park"
     },
     {
       "id": 17,
@@ -168,7 +184,8 @@
       "director": "Jonathan Demme",
       "rating": 8.6,
       "sinopsis": "Una joven agente del FBI busca la ayuda de un brillante asesino caníbal para atrapar a otro asesino serial.",
-      "duracion": 118
+      "duracion": 118,
+      "poster": "https://placehold.co/300x450/FFF3E0/333?text=El%20Silencio%20de%20los%20Inocentes"
     },
     {
       "id": 18,
@@ -178,7 +195,8 @@
       "director": "Chris Columbus",
       "rating": 7.6,
       "sinopsis": "Un niño descubre que es un mago y comienza su educación en el colegio Hogwarts.",
-      "duracion": 152
+      "duracion": 152,
+      "poster": "https://placehold.co/300x450/E8F5E9/333?text=Harry%20Potter%20y%20la%20Piedra%20Filosofal"
     },
     {
       "id": 19,
@@ -188,7 +206,8 @@
       "director": "James Cameron",
       "rating": 7.9,
       "sinopsis": "Una historia de amor entre una joven de clase alta y un artista pobre a bordo del legendario Titanic.",
-      "duracion": 194
+      "duracion": 194,
+      "poster": "https://placehold.co/300x450/E3F2FD/333?text=Titanic"
     },
     {
       "id": 20,
@@ -198,7 +217,8 @@
       "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
       "rating": 8.4,
       "sinopsis": "El joven Miles Morales asume el manto de Spider-Man y cruza dimensiones con otros arácnidos.",
-      "duracion": 117
+      "duracion": 117,
+      "poster": "https://placehold.co/300x450/FCE4EC/333?text=Spider-Man%3A%20Un%20Nuevo%20Universo"
     },
     {
       "id": 21,
@@ -208,7 +228,8 @@
       "director": "Stanley Kubrick",
       "rating": 8.4,
       "sinopsis": "Un escritor y su familia quedan atrapados en un hotel vacío que desata la locura.",
-      "duracion": 146
+      "duracion": 146,
+      "poster": "https://placehold.co/300x450/F3E5F5/333?text=El%20Resplandor"
     },
     {
       "id": 22,
@@ -218,7 +239,8 @@
       "director": "Frank Darabont",
       "rating": 9.3,
       "sinopsis": "Un banquero condenado por un crimen que no cometió encuentra esperanza en la amistad dentro de la prisión.",
-      "duracion": 142
+      "duracion": 142,
+      "poster": "https://placehold.co/300x450/E0F7FA/333?text=Cadena%20Perpetua"
     },
     {
       "id": 23,
@@ -226,9 +248,10 @@
       "año": 2012,
       "genero": "Acción",
       "director": "Joss Whedon",
-      "rating": 8.0,
+      "rating": 8,
       "sinopsis": "Un grupo de superhéroes se une para defender la Tierra de una invasión alienígena.",
-      "duracion": 143
+      "duracion": 143,
+      "poster": "https://placehold.co/300x450/FFF8E1/333?text=Los%20Vengadores"
     },
     {
       "id": 24,
@@ -238,7 +261,8 @@
       "director": "Hayao Miyazaki",
       "rating": 8.2,
       "sinopsis": "Dos niñas se mudan al campo y descubren espíritus del bosque, incluyendo al gigante y amigable Totoro.",
-      "duracion": 86
+      "duracion": 86,
+      "poster": "https://placehold.co/300x450/EFEBE9/333?text=Mi%20Vecino%20Totoro"
     },
     {
       "id": 25,
@@ -248,7 +272,8 @@
       "director": "Brian De Palma",
       "rating": 8.3,
       "sinopsis": "Un emigrante cubano asciende en el mundo del narcotráfico en Miami hasta alcanzar el poder y la paranoia.",
-      "duracion": 170
+      "duracion": 170,
+      "poster": "https://placehold.co/300x450/FFF3E0/333?text=Scarface"
     },
     {
       "id": 26,
@@ -258,7 +283,8 @@
       "director": "Christopher Nolan",
       "rating": 8.8,
       "sinopsis": "Un ladrón especializado en robar secretos del subconsciente debe hacer lo imposible: plantar una idea.",
-      "duracion": 148
+      "duracion": 148,
+      "poster": "https://placehold.co/300x450/E8F5E9/333?text=Origen"
     },
     {
       "id": 27,
@@ -268,7 +294,8 @@
       "director": "Roger Allers, Rob Minkoff",
       "rating": 8.5,
       "sinopsis": "Un joven león debe reclamar su lugar como rey de la sabana tras la muerte de su padre.",
-      "duracion": 88
+      "duracion": 88,
+      "poster": "https://placehold.co/300x450/E3F2FD/333?text=El%20Rey%20Le%C3%B3n"
     },
     {
       "id": 28,
@@ -276,9 +303,10 @@
       "año": 1993,
       "genero": "Drama",
       "director": "Steven Spielberg",
-      "rating": 9.0,
+      "rating": 9,
       "sinopsis": "Un empresario alemán salva las vidas de más de mil judíos polacos durante el Holocausto.",
-      "duracion": 195
+      "duracion": 195,
+      "poster": "https://placehold.co/300x450/FCE4EC/333?text=Schindler's%20List"
     },
     {
       "id": 29,
@@ -288,7 +316,8 @@
       "director": "George Miller",
       "rating": 8.1,
       "sinopsis": "En un mundo postapocalíptico, Max se une a Furiosa para huir de un tirano en una persecución desenfrenada.",
-      "duracion": 120
+      "duracion": 120,
+      "poster": "https://placehold.co/300x450/F3E5F5/333?text=Mad%20Max%3A%20Fury%20Road"
     },
     {
       "id": 30,
@@ -296,9 +325,10 @@
       "año": 2016,
       "genero": "Musical",
       "director": "Damien Chazelle",
-      "rating": 8.0,
+      "rating": 8,
       "sinopsis": "Un músico de jazz y una actriz se enamoran mientras persiguen sus sueños en Los Ángeles.",
-      "duracion": 128
+      "duracion": 128,
+      "poster": "https://placehold.co/300x450/E0F7FA/333?text=La%20La%20Land"
     },
     {
       "id": 31,
@@ -308,7 +338,8 @@
       "director": "Ridley Scott",
       "rating": 8.2,
       "sinopsis": "La tripulación de una nave espacial es acechada por una criatura alienígena letal.",
-      "duracion": 117
+      "duracion": 117,
+      "poster": "https://placehold.co/300x450/FFF8E1/333?text=Alien%3A%20El%20Octavo%20Pasajero"
     },
     {
       "id": 32,
@@ -318,7 +349,8 @@
       "director": "Lee Unkrich",
       "rating": 8.4,
       "sinopsis": "Un niño viaja a la Tierra de los Muertos para descubrir la historia musical de su familia.",
-      "duracion": 105
+      "duracion": 105,
+      "poster": "https://placehold.co/300x450/EFEBE9/333?text=Coco"
     },
     {
       "id": 33,
@@ -328,7 +360,8 @@
       "director": "Joel Coen",
       "rating": 8.1,
       "sinopsis": "Un vago fumador de marihuana es confundido con un millonario y se ve envuelto en una serie de absurdos eventos.",
-      "duracion": 117
+      "duracion": 117,
+      "poster": "https://placehold.co/300x450/FFF3E0/333?text=El%20Gran%20Lebowski"
     },
     {
       "id": 34,
@@ -336,9 +369,10 @@
       "año": 2017,
       "genero": "Ciencia Ficción",
       "director": "Denis Villeneuve",
-      "rating": 8.0,
+      "rating": 8,
       "sinopsis": "Un nuevo blade runner descubre un secreto que podría sumir a la sociedad en el caos.",
-      "duracion": 164
+      "duracion": 164,
+      "poster": "https://placehold.co/300x450/E8F5E9/333?text=Blade%20Runner%202049"
     },
     {
       "id": 35,
@@ -348,7 +382,8 @@
       "director": "John G. Avildsen",
       "rating": 8.1,
       "sinopsis": "Un boxeador de poca monta recibe la oportunidad de su vida al enfrentar al campeón mundial de peso pesado.",
-      "duracion": 120
+      "duracion": 120,
+      "poster": "https://placehold.co/300x450/E3F2FD/333?text=Rocky"
     },
     {
       "id": 36,
@@ -358,7 +393,8 @@
       "director": "Steven Spielberg",
       "rating": 7.9,
       "sinopsis": "Un niño hace amistad con un alienígena abandonado en la Tierra y lo ayuda a regresar a su hogar.",
-      "duracion": 115
+      "duracion": 115,
+      "poster": "https://placehold.co/300x450/FCE4EC/333?text=E.T.%20el%20Extraterrestre"
     },
     {
       "id": 37,
@@ -368,7 +404,8 @@
       "director": "William Friedkin",
       "rating": 8.1,
       "sinopsis": "Una niña es poseída por una entidad demoníaca y su madre busca ayuda de dos sacerdotes.",
-      "duracion": 122
+      "duracion": 122,
+      "poster": "https://placehold.co/300x450/F3E5F5/333?text=El%20Exorcista"
     },
     {
       "id": 38,
@@ -378,7 +415,8 @@
       "director": "Quentin Tarantino",
       "rating": 8.4,
       "sinopsis": "Un esclavo liberado se convierte en cazarrecompensas y busca rescatar a su esposa de un cruel terrateniente.",
-      "duracion": 165
+      "duracion": 165,
+      "poster": "https://placehold.co/300x450/E0F7FA/333?text=Django%20Sin%20Cadenas"
     },
     {
       "id": 39,
@@ -386,9 +424,10 @@
       "año": 2004,
       "genero": "Animación",
       "director": "Brad Bird",
-      "rating": 8.0,
+      "rating": 8,
       "sinopsis": "Una familia de superhéroes retirados debe volver a la acción para salvar el mundo.",
-      "duracion": 115
+      "duracion": 115,
+      "poster": "https://placehold.co/300x450/FFF8E1/333?text=Los%20Incre%C3%ADbles"
     },
     {
       "id": 40,
@@ -398,7 +437,8 @@
       "director": "David Fincher",
       "rating": 8.6,
       "sinopsis": "Dos detectives persiguen a un asesino serial que basa sus crímenes en los siete pecados capitales.",
-      "duracion": 127
+      "duracion": 127,
+      "poster": "https://placehold.co/300x450/EFEBE9/333?text=Seven%3A%20Los%20Siete%20Pecados%20Capitales"
     },
     {
       "id": 41,
@@ -408,7 +448,8 @@
       "director": "Chuck Russell",
       "rating": 6.9,
       "sinopsis": "Un hombre tímido encuentra una máscara misteriosa que lo transforma en un ser alocado e irresistible.",
-      "duracion": 101
+      "duracion": 101,
+      "poster": "https://placehold.co/300x450/FFF3E0/333?text=La%20M%C3%A1scara"
     },
     {
       "id": 42,
@@ -418,7 +459,8 @@
       "director": "Steven Spielberg",
       "rating": 8.4,
       "sinopsis": "El arqueólogo Indiana Jones compite contra los nazis para encontrar el Arca de la Alianza.",
-      "duracion": 115
+      "duracion": 115,
+      "poster": "https://placehold.co/300x450/E8F5E9/333?text=Indiana%20Jones%3A%20En%20Busca%20del%20Arca%20Perdida"
     },
     {
       "id": 43,
@@ -428,7 +470,8 @@
       "director": "Damien Chazelle",
       "rating": 8.5,
       "sinopsis": "Un joven baterista aspira a la grandeza bajo la implacable tutela de un instructor de jazz abusivo.",
-      "duracion": 106
+      "duracion": 106,
+      "poster": "https://placehold.co/300x450/E3F2FD/333?text=Whiplash"
     },
     {
       "id": 44,
@@ -438,7 +481,8 @@
       "director": "Hayao Miyazaki",
       "rating": 8.6,
       "sinopsis": "Una niña queda atrapada en un mundo espiritual y debe trabajar en una casa de baños para salvar a sus padres.",
-      "duracion": 125
+      "duracion": 125,
+      "poster": "https://placehold.co/300x450/FCE4EC/333?text=El%20Viaje%20de%20Chihiro"
     },
     {
       "id": 45,
@@ -448,7 +492,8 @@
       "director": "Danny Boyle",
       "rating": 8.1,
       "sinopsis": "Un grupo de jóvenes heroinómanos en Edimburgo intenta escapar de su adicción y encontrar un propósito.",
-      "duracion": 93
+      "duracion": 93,
+      "poster": "https://placehold.co/300x450/F3E5F5/333?text=Trainspotting"
     },
     {
       "id": 46,
@@ -458,7 +503,8 @@
       "director": "Chad Stahelski",
       "rating": 7.4,
       "sinopsis": "Un legendario asesino retirado vuelve a la acción para vengar el robo de su auto y la muerte de su perro.",
-      "duracion": 101
+      "duracion": 101,
+      "poster": "https://placehold.co/300x450/E0F7FA/333?text=John%20Wick"
     },
     {
       "id": 47,
@@ -468,7 +514,8 @@
       "director": "Jean-Pierre Jeunet",
       "rating": 8.3,
       "sinopsis": "Una joven parisina decide dedicar su vida a hacer felices a los demás de forma anónima.",
-      "duracion": 122
+      "duracion": 122,
+      "poster": "https://placehold.co/300x450/FFF8E1/333?text=Am%C3%A9lie"
     },
     {
       "id": 48,
@@ -478,7 +525,8 @@
       "director": "Roman Polanski",
       "rating": 8.5,
       "sinopsis": "Un brillante pianista judío polaco lucha por sobrevivir en Varsovia durante la Segunda Guerra Mundial.",
-      "duracion": 150
+      "duracion": 150,
+      "poster": "https://placehold.co/300x450/EFEBE9/333?text=El%20Pianista"
     },
     {
       "id": 49,
@@ -488,7 +536,8 @@
       "director": "Quentin Tarantino",
       "rating": 8.2,
       "sinopsis": "Una asesina despierta de un coma y emprende una venganza contra su antiguo equipo que la traicionó.",
-      "duracion": 111
+      "duracion": 111,
+      "poster": "https://placehold.co/300x450/FFF3E0/333?text=Kill%20Bill%3A%20Volumen%201"
     },
     {
       "id": 50,
@@ -498,22 +547,86 @@
       "director": "George Lucas",
       "rating": 8.6,
       "sinopsis": "Un joven granjero se une a un grupo de rebeldes para rescatar a una princesa y derrotar al Imperio Galáctico.",
-      "duracion": 121
+      "duracion": 121,
+      "poster": "https://placehold.co/300x450/E8F5E9/333?text=Star%20Wars%3A%20Una%20Nueva%20Esperanza"
     }
   ],
   "indice_por_genero": {
-    "Acción": [5, 13, 23, 29, 46, 49],
-    "Animación": [4, 14, 20, 24, 27, 32, 39, 44],
-    "Aventura": [16, 42],
-    "Ciencia Ficción": [1, 3, 9, 11, 26, 34, 36, 50],
-    "Comedia": [33, 41, 47],
-    "Crimen": [6, 25],
-    "Drama": [2, 8, 12, 15, 22, 28, 35, 43, 45, 48],
-    "Fantasía": [7, 18],
-    "Musical": [30],
-    "Romance": [19],
-    "Terror": [21, 31, 37],
-    "Thriller": [10, 17, 40],
-    "Western": [38]
+    "Acción": [
+      5,
+      13,
+      23,
+      29,
+      46,
+      49
+    ],
+    "Animación": [
+      4,
+      14,
+      20,
+      24,
+      27,
+      32,
+      39,
+      44
+    ],
+    "Aventura": [
+      16,
+      42
+    ],
+    "Ciencia Ficción": [
+      1,
+      3,
+      9,
+      11,
+      26,
+      34,
+      36,
+      50
+    ],
+    "Comedia": [
+      33,
+      41,
+      47
+    ],
+    "Crimen": [
+      6,
+      25
+    ],
+    "Drama": [
+      2,
+      8,
+      12,
+      15,
+      22,
+      28,
+      35,
+      43,
+      45,
+      48
+    ],
+    "Fantasía": [
+      7,
+      18
+    ],
+    "Musical": [
+      30
+    ],
+    "Romance": [
+      19
+    ],
+    "Terror": [
+      21,
+      31,
+      37
+    ],
+    "Thriller": [
+      10,
+      17,
+      40
+    ],
+    "Western": [
+      38
+    ]
   }
 }

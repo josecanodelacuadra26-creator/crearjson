@@ -9,7 +9,7 @@
       "rating": 8.8,
       "sinopsis": "Un ladrón especializado en extraer secretos del subconsciente a través de los sueños recibe una misión imposible: implantar una idea en la mente de alguien.",
       "duracion": 148,
-      "poster": "https://placehold.co/300x450/FFF3E0/333?text=Inception"
+      "poster": "/img/peliculas/p1.jpg"
     },
     {
       "id": 2,
@@ -20,7 +20,7 @@
       "rating": 9.2,
       "sinopsis": "La historia de la familia Corleone y su poderoso imperio mafioso en Nueva York.",
       "duracion": 175,
-      "poster": "https://placehold.co/300x450/E8F5E9/333?text=El%20Padrino"
+      "poster": "/img/peliculas/p2.jpg"
     },
     {
       "id": 3,
@@ -31,7 +31,7 @@
       "rating": 8.5,
       "sinopsis": "Un adolescente viaja accidentalmente al pasado en un DeLorean modificado por su excéntrico amigo científico.",
       "duracion": 116,
-      "poster": "https://placehold.co/300x450/E3F2FD/333?text=Volver%20al%20Futuro"
+      "poster": "/img/peliculas/p3.jpg"
     },
     {
       "id": 4,
@@ -42,7 +42,7 @@
       "rating": 8.3,
       "sinopsis": "Los juguetes de un niño cobran vida cuando él no está y deben enfrentar la llegada de un nuevo juguete espacial.",
       "duracion": 81,
-      "poster": "https://placehold.co/300x450/FCE4EC/333?text=Toy%20Story"
+      "poster": "/img/peliculas/p4.jpg"
     },
     {
       "id": 5,
@@ -53,7 +53,7 @@
       "rating": 9,
       "sinopsis": "Batman se enfrenta al Joker, un criminal que sumerge a Gotham en el caos.",
       "duracion": 152,
-      "poster": "https://placehold.co/300x450/F3E5F5/333?text=El%20Caballero%20Oscuro"
+      "poster": "/img/peliculas/p5.jpg"
     },
     {
       "id": 6,
@@ -64,7 +64,7 @@
       "rating": 8.9,
       "sinopsis": "Varias historias entrelazadas de criminales, boxeadores y gangsters en Los Ángeles.",
       "duracion": 154,
-      "poster": "https://placehold.co/300x450/E0F7FA/333?text=Pulp%20Fiction"
+      "poster": "/img/peliculas/p6.jpg"
     },
     {
       "id": 7,
@@ -75,7 +75,7 @@
       "rating": 8.8,
       "sinopsis": "Un humilde hobbit emprende una peligrosa misión para destruir un anillo de poder maléfico.",
       "duracion": 178,
-      "poster": "https://placehold.co/300x450/FFF8E1/333?text=El%20Se%C3%B1or%20de%20los%20Anillos%3A%20La%20Comunidad%20del%20Anillo"
+      "poster": "/img/peliculas/p7.jpg"
     },
     {
       "id": 8,
@@ -86,7 +86,7 @@
       "rating": 8.8,
       "sinopsis": "La vida de un hombre simple pero bondadoso que accidentalmente influye en eventos históricos clave.",
       "duracion": 142,
-      "poster": "https://placehold.co/300x450/EFEBE9/333?text=Forrest%20Gump"
+      "poster": "/img/peliculas/p8.jpg"
     },
     {
       "id": 9,
@@ -97,7 +97,7 @@
       "rating": 8.7,
       "sinopsis": "Un programador descubre que la realidad es una simulación creada por máquinas inteligentes.",
       "duracion": 136,
-      "poster": "https://placehold.co/300x450/FFF3E0/333?text=Matrix"
+      "poster": "/img/peliculas/p9.png"
     },
     {
       "id": 10,
@@ -108,7 +108,7 @@
       "rating": 8.5,
       "sinopsis": "Una familia pobre se infiltra en la vida de una familia rica con consecuencias inesperadas.",
       "duracion": 132,
-      "poster": "https://placehold.co/300x450/E8F5E9/333?text=Parasite"
+      "poster": "/img/peliculas/p10.png"
     },
     {
       "id": 11,
@@ -119,7 +119,7 @@
       "rating": 8.7,
       "sinopsis": "Un grupo de astronautas viaja a través de un agujero de gusano en busca de un nuevo hogar para la humanidad.",
       "duracion": 169,
-      "poster": "https://placehold.co/300x450/E3F2FD/333?text=Interestelar"
+      "poster": "/img/peliculas/p11.jpg"
     },
     {
       "id": 12,
@@ -141,7 +141,7 @@
       "rating": 8.5,
       "sinopsis": "Un general romano traicionado busca venganza como gladiador en el Coliseo.",
       "duracion": 155,
-      "poster": "https://placehold.co/300x450/F3E5F5/333?text=Gladiador"
+      "poster": "/img/peliculas/p13.png"
     },
     {
       "id": 14,
@@ -163,7 +163,7 @@
       "rating": 8.8,
       "sinopsis": "Un empleado de oficina insomne y un carismático vendedor de jabón fundan un club de lucha clandestino.",
       "duracion": 139,
-      "poster": "https://placehold.co/300x450/FFF8E1/333?text=El%20Club%20de%20la%20Lucha"
+      "poster": "/img/peliculas/p15.jpg"
     },
     {
       "id": 16,
@@ -174,7 +174,7 @@
       "rating": 8.2,
       "sinopsis": "Científicos crean un parque temático con dinosaurios clonados que terminan escapando.",
       "duracion": 127,
-      "poster": "https://placehold.co/300x450/EFEBE9/333?text=Jurassic%20Park"
+      "poster": "/img/peliculas/p16.jpg"
     },
     {
       "id": 17,
@@ -196,7 +196,7 @@
       "rating": 7.6,
       "sinopsis": "Un niño descubre que es un mago y comienza su educación en el colegio Hogwarts.",
       "duracion": 152,
-      "poster": "https://placehold.co/300x450/E8F5E9/333?text=Harry%20Potter%20y%20la%20Piedra%20Filosofal"
+      "poster": "/img/peliculas/p18.jpg"
     },
     {
       "id": 19,
@@ -207,7 +207,7 @@
       "rating": 7.9,
       "sinopsis": "Una historia de amor entre una joven de clase alta y un artista pobre a bordo del legendario Titanic.",
       "duracion": 194,
-      "poster": "https://placehold.co/300x450/E3F2FD/333?text=Titanic"
+      "poster": "/img/peliculas/p19.png"
     },
     {
       "id": 20,
@@ -240,7 +240,7 @@
       "rating": 9.3,
       "sinopsis": "Un banquero condenado por un crimen que no cometió encuentra esperanza en la amistad dentro de la prisión.",
       "duracion": 142,
-      "poster": "https://placehold.co/300x450/E0F7FA/333?text=Cadena%20Perpetua"
+      "poster": "/img/peliculas/p22.jpg"
     },
     {
       "id": 23,
@@ -251,7 +251,7 @@
       "rating": 8,
       "sinopsis": "Un grupo de superhéroes se une para defender la Tierra de una invasión alienígena.",
       "duracion": 143,
-      "poster": "https://placehold.co/300x450/FFF8E1/333?text=Los%20Vengadores"
+      "poster": "/img/peliculas/p23.jpg"
     },
     {
       "id": 24,
@@ -295,7 +295,7 @@
       "rating": 8.5,
       "sinopsis": "Un joven león debe reclamar su lugar como rey de la sabana tras la muerte de su padre.",
       "duracion": 88,
-      "poster": "https://placehold.co/300x450/E3F2FD/333?text=El%20Rey%20Le%C3%B3n"
+      "poster": "/img/peliculas/p27.jpg"
     },
     {
       "id": 28,
@@ -306,7 +306,7 @@
       "rating": 9,
       "sinopsis": "Un empresario alemán salva las vidas de más de mil judíos polacos durante el Holocausto.",
       "duracion": 195,
-      "poster": "https://placehold.co/300x450/FCE4EC/333?text=Schindler's%20List"
+      "poster": "/img/peliculas/p28.jpg"
     },
     {
       "id": 29,
@@ -317,7 +317,7 @@
       "rating": 8.1,
       "sinopsis": "En un mundo postapocalíptico, Max se une a Furiosa para huir de un tirano en una persecución desenfrenada.",
       "duracion": 120,
-      "poster": "https://placehold.co/300x450/F3E5F5/333?text=Mad%20Max%3A%20Fury%20Road"
+      "poster": "/img/peliculas/p29.jpg"
     },
     {
       "id": 30,
@@ -350,7 +350,7 @@
       "rating": 8.4,
       "sinopsis": "Un niño viaja a la Tierra de los Muertos para descubrir la historia musical de su familia.",
       "duracion": 105,
-      "poster": "https://placehold.co/300x450/EFEBE9/333?text=Coco"
+      "poster": "/img/peliculas/p32.jpg"
     },
     {
       "id": 33,
@@ -372,7 +372,7 @@
       "rating": 8,
       "sinopsis": "Un nuevo blade runner descubre un secreto que podría sumir a la sociedad en el caos.",
       "duracion": 164,
-      "poster": "https://placehold.co/300x450/E8F5E9/333?text=Blade%20Runner%202049"
+      "poster": "/img/peliculas/p34.png"
     },
     {
       "id": 35,
@@ -416,7 +416,7 @@
       "rating": 8.4,
       "sinopsis": "Un esclavo liberado se convierte en cazarrecompensas y busca rescatar a su esposa de un cruel terrateniente.",
       "duracion": 165,
-      "poster": "https://placehold.co/300x450/E0F7FA/333?text=Django%20Sin%20Cadenas"
+      "poster": "/img/peliculas/p38.jpg"
     },
     {
       "id": 39,
@@ -460,7 +460,7 @@
       "rating": 8.4,
       "sinopsis": "El arqueólogo Indiana Jones compite contra los nazis para encontrar el Arca de la Alianza.",
       "duracion": 115,
-      "poster": "https://placehold.co/300x450/E8F5E9/333?text=Indiana%20Jones%3A%20En%20Busca%20del%20Arca%20Perdida"
+      "poster": "/img/peliculas/p42.jpg"
     },
     {
       "id": 43,
@@ -482,7 +482,7 @@
       "rating": 8.6,
       "sinopsis": "Una niña queda atrapada en un mundo espiritual y debe trabajar en una casa de baños para salvar a sus padres.",
       "duracion": 125,
-      "poster": "https://placehold.co/300x450/FCE4EC/333?text=El%20Viaje%20de%20Chihiro"
+      "poster": "/img/peliculas/p44.png"
     },
     {
       "id": 45,
@@ -504,7 +504,7 @@
       "rating": 7.4,
       "sinopsis": "Un legendario asesino retirado vuelve a la acción para vengar el robo de su auto y la muerte de su perro.",
       "duracion": 101,
-      "poster": "https://placehold.co/300x450/E0F7FA/333?text=John%20Wick"
+      "poster": "/img/peliculas/p46.jpg"
     },
     {
       "id": 47,
@@ -548,7 +548,7 @@
       "rating": 8.6,
       "sinopsis": "Un joven granjero se une a un grupo de rebeldes para rescatar a una princesa y derrotar al Imperio Galáctico.",
       "duracion": 121,
-      "poster": "https://placehold.co/300x450/E8F5E9/333?text=Star%20Wars%3A%20Una%20Nueva%20Esperanza"
+      "poster": "/img/peliculas/p50.jpg"
     }
   ],
   "indice_por_genero": {
